@@ -6,13 +6,13 @@
 <!-- ABOUT THE PROJECT -->
 ## Smart Contract
 
-`Ternio` collectibles on the Ethereum blockchain. The Bankers NFT collection are unique collectibles which provide real utility and ownership:
+`Bankers` collectibles on the Ethereum blockchain. The `Bankers` NFT collection are unique collectibles which provide real utility and ownership:
 
 * Get 20% more earnings on `Unbanked` Yield
 * Free NFT lending and borrowing
-* Bankers were created by `Antoine Mingo` who also created `Pudgy Penguins`
-* You own your Banker IP rights
-* Limited edition as all unsold Bankers were burned (1,932 remain of 10,000 created)
+* `Bankers` were created by `Antoine Mingo` who also created `Pudgy Penguins`
+* You own your `Banker` IP rights
+* Limited edition as all unsold `Bankers` were burned (1,932 remain of 10,000 created)
 
 ### `Unbanked` Yield
 
@@ -24,7 +24,7 @@ Yield farming is categorized as any effort to put crypto assets to work in order
 
 #### Tokenization
 
-Looking at the growing demand of yield-farming, `Ternio` has also jumped on the bandwagon by adding `TERN` (Ternio token) to `Uniswap` for the liquidity pool yield. `Uniswap`’s user-friendly platform offers a decentralized protocol for automated liquidity provision for Ethereum token trading pairs. Since `TERN` is an `ERC-20` token, anyone can become a liquidity provider by depositing `TERN` tokens into a smart contract and receiving pool tokens in return. These pool tokens keep track of the providers’ share in the liquidity pool and can be traded in for the underlying asset at any time. `Uniswap` charges a 0.30% transaction fee on all trades, which is added to the reserve pool. The total fee accumulated will be distributed to the liquidity providers when they reclaim their stakes by burning their pool tokens. 
+Looking at the growing demand of yield-farming, `Ternio` has also jumped on the bandwagon by adding `TERN` (`Ternio` token) to `Uniswap` for the liquidity pool yield. `Uniswap`’s user-friendly platform offers a decentralized protocol for automated liquidity provision for Ethereum token trading pairs. Since `TERN` is an `ERC-20` token, anyone can become a liquidity provider by depositing `TERN` tokens into a smart contract and receiving pool tokens in return. These pool tokens keep track of the providers’ share in the liquidity pool and can be traded in for the underlying asset at any time. `Uniswap` charges a 0.30% transaction fee on all trades, which is added to the reserve pool. The total fee accumulated will be distributed to the liquidity providers when they reclaim their stakes by burning their pool tokens. 
 
 <!-- USAGE EXAMPLES -->
 ## Getting Started
