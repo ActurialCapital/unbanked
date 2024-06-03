@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 # `Unbanked` from `Ternio`
 
-<p align="right"><img src="docs/mint pass example.mp4" alt="qr"></p>
+<p align="center"><img src="docs/artist_sketch.jpg" alt="logo" width="50%" height="50%"></p>
 
 <!-- ABOUT THE PROJECT -->
 ## Smart Contract
@@ -10,7 +10,7 @@
 
 * Get 20% more earnings on `Unbanked` Yield
 * Free NFT lending and borrowing
-* Bankers were created by Antoine Mingo who also created Pudgy Penguins
+* Bankers were created by `Antoine Mingo` who also created `Pudgy Penguins`
 * You own your Banker IP rights
 * Limited edition as all unsold Bankers were burned (1,932 remain of 10,000 created)
 
@@ -46,7 +46,7 @@ Distributed under the BSD-3 License. See `LICENSE.txt` for more information.
 
 ## Etherscan
 
-`Contract`: 0x95F36F45D93e5271612e4FD365fA9C2ac165a3fc
+Contract: `0x95F36F45D93e5271612e4FD365fA9C2ac165a3fc`
 
 <p align="left"><img src="docs/qr-code.png" alt="qr" width="20%" height="20%"></p>
 
