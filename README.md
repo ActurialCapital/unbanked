@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 # `Unbanked` from `Ternio`
 
-<p align="center"><img src="docs/artist_sketch.jpg" alt="logo" width="50%" height="50%"></p>
+<p align="center"><img src="docs/artist_sketch.jpg" alt="logo" width="90%" height="90%"></p>
 
 <!-- ABOUT THE PROJECT -->
 ## Smart Contract
@@ -46,7 +46,11 @@ Distributed under the BSD-3 License. See `LICENSE.txt` for more information.
 
 ## Etherscan
 
-Contract: `0x95F36F45D93e5271612e4FD365fA9C2ac165a3fc`
+<a href="https://etherscan.io/address/0x95f36f45d93e5271612e4fd365fa9c2ac165a3fc">Contract</a> `0x95F36F45D93e5271612e4FD365fA9C2ac165a3fc`
 
-<p align="left"><img src="docs/qr-code.png" alt="qr" width="20%" height="20%"></p>
+<p align="left">
+    <a href="https://etherscan.io/address/0x95f36f45d93e5271612e4fd365fa9c2ac165a3fc">
+        <img src="docs/qr-code.png" alt="qr" width="20%" height="20%">
+    </a>
+</p>
 
