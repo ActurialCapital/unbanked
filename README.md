@@ -4,49 +4,89 @@
 <p align="center"><img src="docs/artist_sketch.jpg" alt="logo" width="90%" height="90%"></p>
 
 <!-- ABOUT THE PROJECT -->
-## Smart Contract
+# Bankers Smart Contract
 
-`Bankers` collectibles on the Ethereum blockchain. The `Bankers` NFT collection are unique collectibles which provide real utility and ownership:
+Welcome to the Bankers smart contract repository. 
+This README provides a comprehensive overview of the Bankers collection, its utilities, and how to get started with the contract.
 
-* Get 20% more earnings on `Unbanked` Yield
-* Free NFT lending and borrowing
-* `Bankers` were created by `Antoine Mingo` who also created `Pudgy Penguins`
-* You own your `Banker` IP rights
-* Limited edition as all unsold `Bankers` were burned (1,932 remain of 10,000 created)
+## Overview
 
-### `Unbanked` Yield
+### Bankers Collection
 
-With the recent growth of new Ethereum based protocols in DeFi, we’re seeing an exploding trend of users being able to share in the upside of the protocol’s growth. One of the initiatives turning a lot of heads is Yield Farming, specifically on `Uniswap`.  
+The Bankers collection comprises unique digital collectibles on the Ethereum blockchain that offer real utility and ownership benefits:
 
-#### What is Yield Farming?
+- **Increased Earnings**: Earn 20% more on Unbanked Yield.
+- **Lending and Borrowing**: Enjoy free lending and borrowing services.
+- **Creator Background**: Created by Antoine Mingo, the creator of Pudgy Penguins.
+- **IP Rights**: Full ownership of your Banker IP rights.
+- **Limited Edition**: Out of the 10,000 originally created, only 1,932 remain as the unsold Bankers were burned.
 
-Yield farming is categorized as any effort to put crypto assets to work in order to “farm” the most “yield” from those assets. In simple terms, it is locking up your digital assets and getting rewards for it. A yield farmer may move assets around within DeFi protocols like `Compound`, in order to find whichever pool is offering the best APY from week to week. Yield farming may also be referred to as liquidity mining. This strategy has worked well for many Defi projects and has brought some of the best results in terms of pools of the liquidity.
+### Dutch Auction Contract
 
-#### Tokenization
+The Bankers contract operates as a Dutch auction. In a Dutch auction, the price of the token starts high and decreases over time until a buyer is willing to purchase at the current price. This mechanism ensures that tokens are sold at a fair market value based on demand.
 
-Looking at the growing demand of yield-farming, `Ternio` has also jumped on the bandwagon by adding `TERN` (`Ternio` token) to `Uniswap` for the liquidity pool yield. `Uniswap`’s user-friendly platform offers a decentralized protocol for automated liquidity provision for Ethereum token trading pairs. Since `TERN` is an `ERC-20` token, anyone can become a liquidity provider by depositing `TERN` tokens into a smart contract and receiving pool tokens in return. These pool tokens keep track of the providers’ share in the liquidity pool and can be traded in for the underlying asset at any time. `Uniswap` charges a 0.30% transaction fee on all trades, which is added to the reserve pool. The total fee accumulated will be distributed to the liquidity providers when they reclaim their stakes by burning their pool tokens. 
+## Unbanked Yield
 
-<!-- USAGE EXAMPLES -->
+### What is Yield Farming?
+
+Yield farming involves utilizing digital assets to maximize returns. It typically entails locking up digital assets in various DeFi protocols to earn rewards. Yield farming, also known as liquidity mining, can involve moving assets across different pools to achieve the best annual percentage yield (APY).
+
+### Unbanked Yield on Uniswap
+
+Given the surge in Ethereum-based DeFi protocols, Unbanked Yield leverages Uniswap for yield farming. Uniswap offers a decentralized platform for automated liquidity provision for Ethereum token trading pairs.
+
+### Tokenization with TERN
+
+Ternio has introduced TERN tokens to Uniswap for liquidity pooling. As an ERC-20 token, TERN can be deposited into a smart contract to receive pool tokens, which represent the provider’s share of the liquidity pool. Uniswap charges a 0.30% fee on all trades, which is added to the reserve pool and distributed to liquidity providers when they reclaim their stakes by burning pool tokens.
+
 ## Getting Started
 
-```shell
-$ npx hardhat accounts
-$ npx hardhat compile
-$ npx hardhat clean
-$ npx hardhat test
-$ npx hardhat node
-$ node scripts/sample-script.js
-$ npx hardhat help
-```
+To interact with the Bankers NFT smart contract, follow these steps:
 
-<!-- LICENSE -->
+1. **View Accounts**:
+    ```sh
+    $ npx hardhat accounts
+    ```
+
+2. **Compile the Contract**:
+    ```sh
+    $ npx hardhat compile
+    ```
+
+3. **Clean the Cache**:
+    ```sh
+    $ npx hardhat clean
+    ```
+
+4. **Run Tests**:
+    ```sh
+    $ npx hardhat test
+    ```
+
+5. **Start a Local Node**:
+    ```sh
+    $ npx hardhat node
+    ```
+
+6. **Execute Sample Script**:
+    ```sh
+    $ node scripts/sample-script.js
+    ```
+
+7. **Get Help**:
+    ```sh
+    $ npx hardhat help
+    ```
+
 ## License
 
-Distributed under the BSD-3 License. See `LICENSE.txt` for more information.
+This project is distributed under the BSD-3 License. See [LICENSE](LICENSE.txt) for more information.
 
 ## Etherscan
 
-<a href="https://etherscan.io/address/0x95f36f45d93e5271612e4fd365fa9c2ac165a3fc">Contract</a> `0x95F36F45D93e5271612e4FD365fA9C2ac165a3fc`
+You can view the deployed contract on Etherscan: [Contract Address 0x95F36F45D93e5271612e4FD365fA9C2ac165a3fc](https://etherscan.io/address/0x95F36F45D93e5271612e4FD365fA9C2ac165a3fc).
+
+For any additional questions or issues, feel free to open an issue on GitHub.
 
 <p align="left">
     <a href="https://etherscan.io/address/0x95f36f45d93e5271612e4fd365fa9c2ac165a3fc">
