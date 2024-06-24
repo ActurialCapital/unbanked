@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 # `Unbanked` from `Ternio`
 
-<p align="center"><img src="docs/artist_sketch.jpg" alt="logo" width="90%" height="90%"></p>
+<p align="center"><img src="docs/artist-sketch-1.jpg" alt="logo" width="90%" height="90%"></p>
 
 <!-- ABOUT THE PROJECT -->
 # Bankers Smart Contract
@@ -21,9 +21,37 @@ The Bankers collection comprises unique digital collectibles on the Ethereum blo
 - **IP Rights**: Full ownership of your Banker IP rights.
 - **Limited Edition**: Out of the 10,000 originally created, only 1,932 remain as the unsold Bankers were burned.
 
+
 ### Dutch Auction Contract
 
 The Bankers contract operates as a Dutch auction. In a Dutch auction, the price of the token starts high and decreases over time until a buyer is willing to purchase at the current price. This mechanism ensures that tokens are sold at a fair market value based on demand.
+
+### MintPass
+
+<p align="center"><img src="docs/mintpass-demo.gif" alt="mintpass" width="70%" height="70%"></p>
+
+The MintPass was a pre-launch initiative designed to allow early supporters to get whitelisted for the Bankers collection. By acquiring a MintPass, users secured their spot in the whitelist, granting them early access to mint Bankers NFTs before the public sale. This not only guaranteed participation but also offered benefits such as reduced minting costs and early bird bonuses.
+
+How it Worked:
+
+* **Acquisition**: Users could obtain MintPasses through various pre-launch activities, promotions, or by purchasing directly during the pre-sale period.
+* **Whitelist Access**: Holding a MintPass automatically whitelisted the user for the main launch, ensuring they could mint their NFTs ahead of others.
+* **Exclusive Benefits**: MintPass holders enjoyed perks such as lower minting fees and exclusive early access to rare Bankers NFTs.
+
+### User Interface
+
+<p align="center"><img src="docs/ui-app.jpg" alt="ui" width="60%" height="60%"></p>
+
+The user interface for interacting with the Bankers smart contract is built using a `scaffold-eth`. More information could be found in the [GitHub Repository](https://github.com/scaffold-eth/scaffold-eth):
+> 🧪 An open-source, up-to-date toolkit for building decentralized applications (dapps) on the Ethereum blockchain. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
+>
+> ⚙️ Built using NextJS, RainbowKit, Hardhat, Wagmi, Viem, and Typescript.
+>
+> ✅ Contract Hot Reload: Your frontend auto-adapts to your smart contract as you edit it.
+🪝 Custom hooks: Collection of React hooks wrapper around wagmi to simplify interactions with smart contracts with typescript autocompletion.
+🧱 Components: Collection of common web3 components to quickly build your frontend.
+🔥 Burner Wallet & Local Faucet: Quickly test your application with a burner wallet and local faucet.
+🔐 Integration with Wallet Providers: Connect to different wallet providers and interact with the Ethereum network.
 
 ## Unbanked Yield
 
@@ -93,4 +121,6 @@ For any additional questions or issues, feel free to open an issue on GitHub.
         <img src="docs/qr-code.png" alt="qr" width="20%" height="20%">
     </a>
 </p>
+
+
 
