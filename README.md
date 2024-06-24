@@ -43,15 +43,18 @@ How it Worked:
 <p align="center"><img src="docs/ui-app.jpg" alt="ui" width="60%" height="60%"></p>
 
 The user interface for interacting with the Bankers smart contract is built using a `scaffold-eth`. More information could be found in the [GitHub Repository](https://github.com/scaffold-eth/scaffold-eth):
+
 > 🧪 An open-source, up-to-date toolkit for building decentralized applications (dapps) on the Ethereum blockchain. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
->
-> ⚙️ Built using NextJS, RainbowKit, Hardhat, Wagmi, Viem, and Typescript.
->
-> ✅ Contract Hot Reload: Your frontend auto-adapts to your smart contract as you edit it.
-🪝 Custom hooks: Collection of React hooks wrapper around wagmi to simplify interactions with smart contracts with typescript autocompletion.
-🧱 Components: Collection of common web3 components to quickly build your frontend.
-🔥 Burner Wallet & Local Faucet: Quickly test your application with a burner wallet and local faucet.
-🔐 Integration with Wallet Providers: Connect to different wallet providers and interact with the Ethereum network.
+
+Built using `NextJS`, `RainbowKit`, `Hardhat`, `Wagmi`, `Viem`, and `Typescript`.
+- **Contract Hot Reload**: Your frontend auto-adapts to your smart contract as you edit it.
+- **[Custom hooks](https://docs.scaffoldeth.io/hooks/)**: Collection of React hooks wrapper around [wagmi](https://wagmi.sh/) to simplify interactions with smart contracts with typescript autocompletion.
+- [**Components**](https://docs.scaffoldeth.io/components/): Collection of common web3 components to quickly build your frontend.
+- **Burner Wallet & Local Faucet**: Quickly test your application with a burner wallet and local faucet.
+- **Integration with Wallet Providers**: Connect to different wallet providers and interact with the Ethereum network.
+  
+> [!WARNING]
+> `Scafold-eth` has been archived and is now read-only. [`Scaffold-ETH 2`](https://github.com/scaffold-eth/scaffold-eth-2) is the latest version, we recommend you fork.
 
 ## Unbanked Yield
 
@@ -112,15 +115,7 @@ This project is distributed under the BSD-3 License. See [LICENSE](LICENSE.txt) 
 
 ## Etherscan
 
-You can view the deployed contract on Etherscan: [Contract Address 0x95F36F45D93e5271612e4FD365fA9C2ac165a3fc](https://etherscan.io/address/0x95F36F45D93e5271612e4FD365fA9C2ac165a3fc).
-
-For any additional questions or issues, feel free to open an issue on GitHub.
-
-<p align="left">
-    <a href="https://etherscan.io/address/0x95f36f45d93e5271612e4fd365fa9c2ac165a3fc">
-        <img src="docs/qr-code.png" alt="qr" width="20%" height="20%">
-    </a>
-</p>
-
-
-
+| Contract | Etherscan Link | QR Code |
+|----------|-----------------|---------|
+| MintPass | [View on Etherscan](https://etherscan.io/address/0x20d4ddb3d16addca064b7126f4b3cee5437d4194) | <img src="docs/qr-mintpass.png" alt="MintPass QR" width="30%" height="30%"> |
+| Bankers  | [View on Etherscan](https://etherscan.io/address/0x95f36f45d93e5271612e4fd365fa9c2ac165a3fc) | <img src="docs/qr-code.png" alt="Bankers QR" width="30%" height="30%"> |
