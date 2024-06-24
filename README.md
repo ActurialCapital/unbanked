@@ -54,7 +54,7 @@ Built using `NextJS`, `RainbowKit`, `Hardhat`, `Wagmi`, `Viem`, and `Typescript`
 - **Integration with Wallet Providers**: Connect to different wallet providers and interact with the Ethereum network.
   
 > [!WARNING]
-> `Scafold-eth` has been archived and is now read-only. [`Scaffold-ETH 2`](https://github.com/scaffold-eth/scaffold-eth-2) is the latest version, we recommend you fork.
+> `Scafold-eth` has been archived and is now read-only. [`Scaffold-ETH 2`](https://github.com/scaffold-eth/scaffold-eth-2) is the latest version.
 
 ## Unbanked Yield
 
