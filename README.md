@@ -117,5 +117,5 @@ This project is distributed under the BSD-3 License. See [LICENSE](LICENSE.txt) 
 
 | Contract | Etherscan Link | QR Code |
 |----------|-----------------|---------|
-| MintPass | [View on Etherscan](https://etherscan.io/address/0x20d4ddb3d16addca064b7126f4b3cee5437d4194) | <img src="docs/qr-mintpass.png" alt="MintPass QR" width="30%" height="30%"> |
-| Bankers  | [View on Etherscan](https://etherscan.io/address/0x95f36f45d93e5271612e4fd365fa9c2ac165a3fc) | <img src="docs/qr-code.png" alt="Bankers QR" width="30%" height="30%"> |
+| MintPass | [View on Etherscan](https://etherscan.io/address/0x20d4ddb3d16addca064b7126f4b3cee5437d4194) | <img src="docs/qr-mintpass.png" alt="MintPass QR" width="60%" height="60%"> |
+| Bankers  | [View on Etherscan](https://etherscan.io/address/0x95f36f45d93e5271612e4fd365fa9c2ac165a3fc) | <img src="docs/qr-code.png" alt="Bankers QR" width="60%" height="60%"> |
