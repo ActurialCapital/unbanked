@@ -111,7 +111,7 @@ To interact with the Bankers NFT smart contract, follow these steps:
 
 ## License
 
-This project is distributed under the BSD-3 License. See [LICENSE](LICENSE.txt) for more information.
+This project is distributed under the BSD-3 License. See [LICENSE](./LICENSE) for more information.
 
 ## Etherscan
 
